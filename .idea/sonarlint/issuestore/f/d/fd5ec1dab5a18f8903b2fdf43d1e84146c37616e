@@ -1,0 +1,46 @@
+
+k
+java:S1604t"(Make this anonymous inner class a lambda(¡ºµ§8å¢Ğö®2J$dae8eaaa-8fc6-4fac-a69f-20bcd8e2cdc9
+q
+java:S1604¬"(Make this anonymous inner class a lambda(ı˜—‡úÿÿÿÿ8“£™ú®2J$a9ce94a8-3fc9-4624-ac47-4355b86bead5
+q
+java:S1604æ"(Make this anonymous inner class a lambda(îÔ¢Ğüÿÿÿÿ8å¢Ğö®2J$20f87793-0a13-4357-8bf4-9675c0c9a9af
+q
+java:S1604î"(Make this anonymous inner class a lambda(´½æóıÿÿÿÿ8æ¢Ğö®2J$6dd5130d-7d26-4b01-9828-83b66e1ab9c8
+q
+java:S1604ä"(Make this anonymous inner class a lambda(âÁ–·üÿÿÿÿ8æ¢Ğö®2J$6a49ed84-9fc7-4ef0-8dd7-b2eab6283926
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€àÍÿÿÿÿÿJ$f0832ace-43f5-4b1b-b3cf-fc941614d2e5
+›	java:S116?"TRename this field "w_mapView" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³±åÿùÿÿÿÿ8ò¢Ğö®2J$b449045e-324a-4463-89ea-a3e46c590b52
+	java:S116B"VRename this field "mapa_mapbox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚøÕşÿÿÿÿ8ò¢Ğö®2J$66760e6f-ada8-405a-9817-21a05c000a2a
+€
+java:S1144’"7Remove this unused private "verificarPermissao" method.(Éç·Òıÿÿÿÿ8ı¢Ğö®2J$2916e7ba-7876-4d38-949c-90f7d7398b3e
+r
+java:S1144".Remove this unused private "criarRota" method.(êĞˆƒ8ş¢Ğö®2J$3d5d4910-3666-4602-af28-4b07c0839630
+v
+java:S1144ã"2Remove this unused private "botaoMeuLocal" method.(èÔ„•8€£Ğö®2J$3b6049d6-6582-44c1-9acf-9b3e40d628aa
+~	java:S125_"<This block of commented-out lines of code should be removed.(ï ±ª8©£Ğö®2J$38621223-10b3-451b-bfba-534804bce19d
+Ä
+java:S1186v"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦Œœ¢8ª£Ğö®2J$5fc669ed-8788-4b34-a774-caae6c68cee6
+S
+java:S1874ƒ"5Remove this use of "getParcelable"; it is deprecated.(Ö¥ºİ8°…¦¯2
+	java:S125†"<This block of commented-out lines of code should be removed.(ØËŠ“8ª£Ğö®2J$47c2a096-c162-4c6c-bb04-a08cf12271b0
+}	java:S125ˆ"<This block of commented-out lines of code should be removed.(–ı‘îüÿÿÿÿJ$a53792c7-db9f-4026-ab34-8a9b4b012a91
+„	java:S125Œ"<This block of commented-out lines of code should be removed.(˜·âıÿÿÿÿ8«£Ğö®2J$224c51db-4d1f-4b79-8731-666a29488408
+„	java:S125¯"<This block of commented-out lines of code should be removed.(ºŠŒìÿÿÿÿÿ8«£Ğö®2J$ff91f0ea-ae62-405c-9f05-0d74843fc6a7
+„	java:S125Â"<This block of commented-out lines of code should be removed.(æªò¸ùÿÿÿÿ8­£Ğö®2J$b908b33a-750e-479e-8957-9bc82cc0164f
+Y
+java:S1874Æ";Remove this use of "forceLocationUpdate"; it is deprecated.(ºÿ•Í8 ¸¹¦¯2
+~	java:S125Ó"<This block of commented-out lines of code should be removed.(ãªÔs8°£Ğö®2J$43649cfa-6ad4-4b05-ba3e-238dba85edb4
+‡
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(»ÚÑ×üÿÿÿÿ8Î£Ğö®2J$9f6378a6-e5d8-4025-8e87-a03de3c2231d
+s	java:S106±"+Replace this use of System.out by a logger.(İçõ»ùÿÿÿÿ8Ó£Ğö®2J$104c1e32-c8b3-4f28-8f75-aa2b200cbd93
+^
+java:S1874Ñ";Remove this use of "getFromLocationName"; it is deprecated.(Å¼Š§şÿÿÿÿ8±…¦¯2
+m	java:S106Ú"+Replace this use of System.out by a logger.(£·öB8Ú£Ğö®2J$cdf3652b-d620-4db7-be63-595ed2373448
+~	java:S125Ş"<This block of commented-out lines of code should be removed.(Ìçê08Ú£Ğö®2J$4d627846-3595-4f9b-8e64-920f20546b32
+“
+java:S1874î"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(Ó»×¶şÿÿÿÿ8Ş£Ğö®2J$ac3b6727-d866-4ef9-966e-1f449acf604b
+
+java:S1874ï"BRemove this use of "onRequestPermissionsResult"; it is deprecated.(ÖƒàJ$4f4dca5a-12c4-492e-95b3-8e0b4a2c2278
+w
+java:S1068B"/Remove this unused "mapa_mapbox" private field.(ÚøÕşÿÿÿÿ8ù£Ğö®2J$55dd210f-7106-462b-8127-9e10e2fd49f4

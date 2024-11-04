@@ -1,0 +1,69 @@
+
+?
+java:S1604“"(Make this anonymous inner class a lambda(¼šÃ 
+D
+java:S1604š"(Make this anonymous inner class a lambda(åé‘ƒøÿÿÿÿ
+D
+java:S1604¡"(Make this anonymous inner class a lambda(üé¡éşÿÿÿÿ
+?
+java:S1604©"(Make this anonymous inner class a lambda(ëòı
+?
+java:S1604â"(Make this anonymous inner class a lambda(ƒ¦Äæ
+?
+java:S1604ß"(Make this anonymous inner class a lambda(”ŞÓ¬
+D
+java:S1604ì"(Make this anonymous inner class a lambda(œÁÈÌşÿÿÿÿ
+l	java:S117Ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÚ¿Çÿÿÿÿÿ
+g	java:S117Ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ëÁ¤
+g	java:S117Ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚èêÄ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€àÍÿÿÿÿÿ
+O
+java:S2589á"8Remove this expression which always evaluates to "false"(«¤
+?
+java:S5411á"(Use a primitive boolean expression here.(«¤
+F
+java:S1066Ü"/Merge this if statement with the enclosing one.(©§¹
+F
+java:S1066¨"/Merge this if statement with the enclosing one.(¾Çß
+F
+java:S1066¼"/Merge this if statement with the enclosing one.(¾Çß
+^
+java:S2259½"BA "NullPointerException" could be thrown; "data" is nullable here.(¬şßøÿÿÿÿ
+a	java:S112†"FDefine and throw a dedicated exception instead of using a generic one.(˜¸ê³ÿÿÿÿÿ
+o	java:S116G"ZRename this field "codigo_registro" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êºï 
+u	java:S116N"[Rename this field "w_imageview_foto" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ¾–œøÿÿÿÿ
+w	java:S116O"]Rename this field "w_imageview_salvar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ì•Ÿûÿÿÿÿ
+l	java:S116Q"WRename this field "w_btn_fechar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ßÏÅ
+p	java:S116R"[Rename this field "w_btn_tirar_foto" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–óûÑ
+r	java:S116S"XRename this field "w_btn_galeria" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜˆõÍÿÿÿÿÿ
+l	java:S116T"WRename this field "w_btn_salvar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÚ…‚
+G
+java:S1144²"0Remove this unused private "abrirCamera" method.(ö‚•
+Q
+java:S1144İ"5Remove this unused private "enviarFotoTirada" method.(Âœ‘†ùÿÿÿÿ
+G
+java:S1172Z",Remove this unused method parameter "title".(à©è½øÿÿÿÿ
+Z
+java:S1874¥">Remove this use of "startActivityForResult"; it is deprecated.(ŞÌÊÊûÿÿÿÿ
+W	java:S125¬"<This block of commented-out lines of code should be removed.( °‡Êûÿÿÿÿ
+W	java:S125¹"<This block of commented-out lines of code should be removed.(Æ–µ©úÿÿÿÿ
+f
+java:S1874Î"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(Ó»×¶şÿÿÿÿ
+>
+java:S1125á"'Remove the unnecessary boolean literal.(«¤
+>
+java:S1125á"'Remove the unnecessary boolean literal.(«¤
+>
+java:S1125á"'Remove the unnecessary boolean literal.(«¤
+A	java:S106ö"+Replace this use of System.out by a logger.(ìàéÅ
+Z
+java:S1874ş">Remove this use of "startActivityForResult"; it is deprecated.(õüºµşÿÿÿÿ
+D	java:S108‚")Either remove or fill this block of code.(ÿÕøãüÿÿÿÿ
+W	java:S125Š"<This block of commented-out lines of code should be removed.(«îˆÛÿÿÿÿÿ
+F	java:S106œ"+Replace this use of System.out by a logger.(éŒ°éûÿÿÿÿ
+f
+java:S1874¥"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(™­²©ùÿÿÿÿ
+b
+java:S1874®"FRemove this use of "ACTION_MEDIA_SCANNER_SCAN_FILE"; it is deprecated.(ëÒ¿šıÿÿÿÿ
+G
+java:S1874Ï"0Remove this use of "getColor"; it is deprecated.(ŠØøÒ

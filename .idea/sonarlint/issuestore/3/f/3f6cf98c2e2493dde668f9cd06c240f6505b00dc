@@ -1,0 +1,41 @@
+
+C
+java:S1604n"(Make this anonymous inner class a lambda(®Ò–üÿÿÿÿ
+=
+java:S1604{"(Make this anonymous inner class a lambda(’Ö«o
+b	java:S101'"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Şôª›
+g	java:S117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ğ–‹
+g	java:S117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ğ–‹
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ê‹¨
+R
+java:S1874("7Remove this use of "GoogleApiClient"; it is deprecated.(¶ó¤ÿÿÿÿÿ
+]
+java:S1874("BRemove this use of "OnConnectionFailedListener"; it is deprecated.(¶ó¤ÿÿÿÿÿ
+`
+java:S11244"EReorder the modifiers to comply with the Java Language Specification.(¹‰ñ‰ùÿÿÿÿ
+e
+java:S1874X"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(Û›ë´øÿÿÿÿ
+1
+java:S3626e"Remove this redundant jump.(ûÁİ…
+f
+java:S1301Y"KReplace this "switch" statement by "if" statements to increase readability.(×ö³–úÿÿÿÿ
+<	java:S131Y""Add a default case to this switch.(×ö³–úÿÿÿÿ
+`
+java:S1874n"ERemove this use of "setOnMyLocationChangeListener"; it is deprecated.(®Ò–üÿÿÿÿ
+d	java:S100–"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ğ–‹
+F
+java:S1874¥"/Remove this use of "execute"; it is deprecated.(ıÕ¶Ö
+~
+java:S3252­"gUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_LONG".(¯¿î
+W	java:S125¯"<This block of commented-out lines of code should be removed.(ìÍğÿÿÿÿÿ
+O
+java:S1854¼"8Remove this useless assignment to local variable "zoom".(‘×Ä’
+Q
+java:S1854»":Remove this useless assignment to local variable "center".(ŠãÃé
+B
+java:S1481»"+Remove this unused "center" local variable.(ŠãÃé
+@
+java:S1481¼")Remove this unused "zoom" local variable.(‘×Ä’
+G
+java:S1874Ë"0Remove this use of "getColor"; it is deprecated.(Ìİµ÷
+?	java:S108Õ")Either remove or fill this block of code.(á¢–¬

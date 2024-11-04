@@ -1,0 +1,110 @@
+
+?
+java:S1604–"(Make this anonymous inner class a lambda(„ú¶
+D
+java:S1604Ÿ"(Make this anonymous inner class a lambda(Êüßâüÿÿÿÿ
+D
+java:S1604¨"(Make this anonymous inner class a lambda(íí‰‰ÿÿÿÿÿ
+D
+java:S1604ä"(Make this anonymous inner class a lambda(ªñ´Èûÿÿÿÿ
+l	java:S117Ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şµ¶€şÿÿÿÿ
+l	java:S117æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ÇË¶üÿÿÿÿ
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÉ¦œ
+l	java:S117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­´€õûÿÿÿÿ
+f	java:S117ˆ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô»
+g	java:S117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èë†ñ
+l	java:S117Œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áæìèúÿÿÿÿ
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óà×ï
+g	java:S117§"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËŸğš
+l	java:S117·"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ñĞşÿÿÿÿ
+l	java:S117Ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’òÓ¯úÿÿÿÿ
+f	java:S117Ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»©îO
+g	java:S117Ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´¦÷³
+l	java:S117Ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÔüÿÿÿÿ
+g	java:S117Ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•„Ğ
+l	java:S117Õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾½’úÿÿÿÿ
+g	java:S117Ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™’™Ä
+g	java:S117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜÷ÆŠ
+f	java:S117Ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ¡û-
+l	java:S117Ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íª¦Šÿÿÿÿÿ
+g	java:S117Ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â„Ä¹
+l	java:S117Ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šè¼Æøÿÿÿÿ
+l	java:S117š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èÂûÎıÿÿÿÿ
+g	java:S117¾"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïòÇñ
+l	java:S117Â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å¹ã“ıÿÿÿÿ
+l	java:S117Ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ÒòÉúÿÿÿÿ
+g	java:S117Ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñœøğ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ê‹¨
+D
+java:S5411Ä"(Use a primitive boolean expression here.(´Ñë§şÿÿÿÿ
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Îğµ¶úÿÿÿÿ
+|
+java:S1192›"fDefine a constant instead of duplicating this literal "Contate o suporte para mais detalhes." 3 times.(ÄÇÈ7
+J
+java:S2755¢"3Disable access to external entities in XML parsing.(ğ¨ºî
+m	java:S116A"SRename this field "w_layout" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í®á¤şÿÿÿÿ
+n	java:S116C"YRename this field "w_botao_leitor" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÅÒÌ
+o	java:S116D"[Rename this field "w_botao_cancelar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ã™
+q	java:S116E"WRename this field "w_botao_foco" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³”·„şÿÿÿÿ
+n	java:S116G"YRename this field "w_icone_leitor" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÑÌÓ
+u	java:S116H"[Rename this field "w_icone_cancelar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤òÛÔûÿÿÿÿ
+l	java:S116I"WRename this field "w_icone_foco" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øÉÆá
+q	java:S116L"WRename this field "w_item_vazio" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º¢×Úşÿÿÿÿ
+j	java:S116N"URename this field "w_romaneio" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËÑ…¡
+q	java:S116P"]Rename this field "lista_romaneio_ent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ùÃ
+w	java:S116S"]Rename this field "descricao_programa" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜßÆıÿÿÿÿ
+h	java:S116W"SRename this field "w_codigo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±´¨œ
+}
+java:S30087"hRename this field "referenceDB_romaneio_liberado" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûüˆt
+u
+java:S30088"_Rename this field "referenceDB_romaneio" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëä—Ò
+v
+java:S30089"[Rename this field "referenceDB_item" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì¶ª…üÿÿÿÿ
+G
+java:S1659U",Declare "dialogPesquisa" on a separate line.(›‹­ûÿÿÿÿ
+t
+java:S14506"YRemove the "firebaseDB" field and declare it as a local variable in the relevant methods.(Ùà”Øùÿÿÿÿ
+Q
+java:S1874U"6Remove this use of "ProgressDialog"; it is deprecated.(›‹­ûÿÿÿÿ
+Q
+java:S1874U"6Remove this use of "ProgressDialog"; it is deprecated.(›‹­ûÿÿÿÿ
+J
+java:S1874k"/Remove this use of "Handler"; it is deprecated.(´Æß™şÿÿÿÿ
+Q
+java:S2696p"6Make the enclosing method "static" or remove this set.(áÇÓ»ÿÿÿÿÿ
+Q
+java:S2696q"6Make the enclosing method "static" or remove this set.(Ë„£ÿÿÿÿÿ
+L
+java:S2696r"6Make the enclosing method "static" or remove this set.(÷Ÿş¯
+Q
+java:S2696s"6Make the enclosing method "static" or remove this set.(—´ˆûÿÿÿÿ
+z
+java:S2142²"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(è®ã¶øÿÿÿÿ
+G
+java:S1874Å"0Remove this use of "getColor"; it is deprecated.(šŸ²Ú
+G
+java:S1874È"0Remove this use of "getColor"; it is deprecated.(İ¤ëÑ
+L
+java:S1874Ë"0Remove this use of "getColor"; it is deprecated.(”àñ‚şÿÿÿÿ
+G
+java:S1874Ï"0Remove this use of "getColor"; it is deprecated.(Ëã¥
+G
+java:S1874Ò"0Remove this use of "getColor"; it is deprecated.(ÄÏ¯Ã
+G
+java:S1874Õ"0Remove this use of "getColor"; it is deprecated.(œà
+i	java:S100Ü"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şµ¶€şÿÿÿÿ
+>
+java:S1125è"'Remove the unnecessary boolean literal.(ìÿ³œ
+z
+java:S2142ü"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(±Ÿ—±ÿÿÿÿÿ
+K
+java:S1874û"/Remove this use of "execute"; it is deprecated.(µûÎÛüÿÿÿÿ
+G
+java:S1874û"+Remove this use of "get"; it is deprecated.(µûÎÛüÿÿÿÿ
+d	java:S100¾"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïòÇñ
+i	java:S100Ñ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ÒòÉúÿÿÿÿ
+`
+java:S1874é"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(¹Î¾
+g
+java:S1301õ"KReplace this "switch" statement by "if" statements to increase readability.(øå´¡ÿÿÿÿÿ

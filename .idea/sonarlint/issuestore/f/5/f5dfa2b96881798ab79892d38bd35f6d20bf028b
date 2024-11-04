@@ -1,0 +1,70 @@
+
+Œ	java:S117K"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ†£ìJ$ecd97bfe-8355-4fe4-b696-4b1f24d83a70
+‘	java:S117U"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹õëÿÿÿÿÿJ$a0a344a4-9a02-4cca-87b3-877f7e1e7cc5
+Œ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ«¬ÁJ$6f0c52d2-886e-4c77-9787-e96cc8d0638f
+’	java:S117²"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™Ë¼œÿÿÿÿÿJ$8df83ed9-e317-4e4d-b734-ad3d6ab34010
+	java:S117º"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËŸğšJ$3d8decdd-b13c-4085-b047-4a0210c78d85
+	java:S117¼"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÄåéJ$1f5b7d60-ea1d-471b-94fa-bcbc5c48acaa
+	java:S117½"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”´ƒ¨J$047322ac-8143-4995-a618-c2b3f629a60f
+’	java:S117¾"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ş–õıÿÿÿÿJ$92854d8e-807e-4274-acea-70b72f1d20f7
+	java:S117¿"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã¨ÅÓJ$68edd180-e706-405e-91b1-0c79b9a37d03
+’	java:S117À"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èãª¼úÿÿÿÿJ$92a748cb-dd19-4326-9cd0-707957a096c2
+Œ	java:S117Á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨‚”nJ$b9ec3634-6dc6-4fcb-915a-61c86f9d2c65
+Œ	java:S117Â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£¯zJ$6be3791d-1f52-4929-bf19-d6bad1b7f9ba
+	java:S117Ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ª†”J$2106dc63-0c83-415b-9f26-5b6762bbf57c
+’	java:S117Ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“‹²µüÿÿÿÿJ$c9a487b4-b0e0-4462-9334-994048f801df
+’	java:S117Å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ËÎÒüÿÿÿÿJ$7d0ceb13-acab-485a-bcf0-6305c8e2be50
+Œ	java:S117Æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßĞšXJ$e08b105e-505b-4fbf-8968-66ba5a4bfbcd
+’	java:S117Ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øÆ­°şÿÿÿÿJ$f8543952-f5d6-4692-87d1-74077fae5269
+	java:S117È"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º“äJ$aa132aa9-be3f-4a0a-862d-cf774881f064
+	java:S117É"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë³ë²J$5f6adbca-d817-4211-867e-994f926c1ba5
+Œ	java:S117Ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÂë.J$9478b0a6-5201-4565-ae8d-350b9d50c6cb
+	java:S117Ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à¿Ì×J$2ee74d71-0741-4b9d-b76f-13d0c5d147e2
+	java:S117Ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚¬£ÌJ$00990cd5-b8b5-40c6-a388-211aebc5c56a
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ê‹¨J$44cd21d3-12d0-41ba-a7c6-4b518490f287
+x
+java:S2589r"7Remove this expression which always evaluates to "true"(¨¢ôŞúÿÿÿÿJ$fd2e86cb-73ec-4eaa-a199-624aa40e4ba9
+i
+java:S5411m"(Use a primitive boolean expression here.(Ú§»×ıÿÿÿÿJ$5221bf71-cf3e-4fe8-a0b2-74e92159b1ca
+i
+java:S5411r"(Use a primitive boolean expression here.(¨¢ôŞúÿÿÿÿJ$e6f54dec-967f-4380-93cb-932964745ebf
+e
+java:S5411¡"(Use a primitive boolean expression here.(«¸ş•J$67e3ec01-de13-4531-b307-2b0587396b27
+K
+java:S5411–"(Use a primitive boolean expression here.(Ûº˜äşÿÿÿÿ8£öï§¯2
+š
+java:S2293e"YReplace the type specification in this constructor call with the diamond operator ("<>").(Îğµ¶úÿÿÿÿJ$075e105d-acbb-488c-b165-4dfbcc7dc323
+
+java:S2095n"MUse try-with-resources or close this "BancoMapaRetira" in a "finally" clause.(ôáàµÿÿÿÿÿJ$0d911323-9f9c-435b-a43c-32668d8cefb8
+–	java:S116*"VRename this field "flag_online" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚÑóúÿÿÿÿJ$b8e04bf6-7489-4e05-bd91-155315ab3f75
+š	java:S116,"ZRename this field "w_registro_mapa" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÍŠ–úÿÿÿÿJ$8bdbf1ea-cb4d-4c0f-b1f5-74570a3244e5
+š	java:S116."ZRename this field "w_text_registro" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çâ‚ ıÿÿÿÿJ$05e54c6c-f150-4326-85ea-c6b88c3da936
+—	java:S1160"]Rename this field "lista_romaneio_ent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ùÃJ$58aff219-9849-43be-b7bd-634bb58bc972
+	java:S1164"]Rename this field "descricao_programa" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜßÆıÿÿÿÿJ$8478ba14-2622-435e-86aa-bf08d7cffded
+š
+java:S1450$"YRemove the "firebaseDB" field and declare it as a local variable in the relevant methods.(Ùà”ØùÿÿÿÿJ$3f34ea1a-de89-4a69-ad3d-1bda20207fb1
+~
+java:S1144®"ARemove this unused private "consultarMapaEntrega_Offline" method.(Ç„µ¯J$f3366e30-69b3-453b-956c-40595f13f9de
+w
+java:S18746"6Remove this use of "ProgressDialog"; it is deprecated.(¡æÓÂüÿÿÿÿJ$b6e61a45-6627-4f88-b29b-c2d7d9e6ce8c
+w
+java:S2696C"6Make the enclosing method "static" or remove this set.(áÇÓ»ÿÿÿÿÿJ$74488cdc-8305-4dce-899b-0b33b451b574
+r
+java:S2696D"6Make the enclosing method "static" or remove this set.(ƒŠÊ©J$d5364b3c-85cf-4604-a57f-7e137314c765
+‰	java:S100_"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚—Ë€J$16cf11eb-fbee-4899-a1b6-5843317431ff
+h
+java:S1125m"'Remove the unnecessary boolean literal.(Ú§»×ıÿÿÿÿJ$05babc8f-f11e-4525-9c1f-8bcbe2bbc262
+h
+java:S1125r"'Remove the unnecessary boolean literal.(¨¢ôŞúÿÿÿÿJ$bf6cc445-7750-45b7-9bac-983c93a6f774
+‰	java:S100w"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÅø‡J$24470387-b92b-44c8-a4dc-5dee226cf155
+n
+java:S1874x"2Remove this use of "setMessage"; it is deprecated.(ìºÑ¡J$420ee435-0774-4f25-8836-e7fd034d1d99
+~
+java:S1126‡"BReplace this if-then-else statement by a single method invocation.(ºî%J$7b19ea01-82bf-48db-af41-3de31dc3c0c6
+d
+java:S1125¡"'Remove the unnecessary boolean literal.(«¸ş•J$faa679e7-b00e-4a24-92ed-16422679d5d6
+Š	java:S100®"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç„µ¯J$7f788335-012e-4a3e-b017-b7b0058b28f9
+g	java:S106ó"+Replace this use of System.out by a logger.(ê’Ş€J$13808f46-15cc-4100-bd27-a2c70c726404
+n	java:S128Š"LEnd this switch case with an unconditional break, return or throw statement.(İ–Ò˜ÿÿÿÿÿ8Úöï§¯2
+J
+java:S1125–"'Remove the unnecessary boolean literal.(Ûº˜äşÿÿÿÿ8Üöï§¯2

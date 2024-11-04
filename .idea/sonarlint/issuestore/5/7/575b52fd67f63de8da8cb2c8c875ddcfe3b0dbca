@@ -1,0 +1,39 @@
+
+Œ	java:S117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ†£ìJ$ddfc022b-3e98-40f4-b45c-0f0e93900744
+‘	java:S117]"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹õëÿÿÿÿÿJ$89ee8ede-4a66-4550-b37c-be5b83b08191
+Œ	java:S117q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş‹ÅJ$76d191f4-2820-4e7b-9dcb-400f590551f4
+‘	java:S117t"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ”¹øÿÿÿÿJ$dbcad920-df1c-4a3b-b81d-ff7eb83b5271
+	java:S117˜"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş‹ÅJ$1f96f789-0d42-475c-bd1c-2cc08f8dea18
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿ«¾J$e7b2b05f-4df3-439b-83a3-f93026ff7ad5
+j
+java:S5411Ç"(Use a primitive boolean expression here.(Ú§»×ıÿÿÿÿJ$76da4664-7c65-4763-8969-34a40ed22f40
+p
+java:S1066x"/Merge this if statement with the enclosing one.(ğ­áÿÿÿÿÿJ$2d0cbe1c-c27b-4c1b-b9d7-4b7ce8ef0bb6
+l
+java:S1066"/Merge this if statement with the enclosing one.(Ø³ß›J$3aac34ad-3bee-462e-91ff-38b3722c36f1
+•
+java:S2293Y"YReplace the type specification in this constructor call with the diamond operator ("<>").(×‡­ĞJ$736effdd-c8d9-4035-b8d2-8850537b15a7
+
+java:S1192O"MDefine a constant instead of duplicating this literal "usuario-temp" 3 times.(İ¼¢üÿÿÿÿJ$f3f49ddc-4a3f-4e13-9542-0f880f9ecd0a
+–	java:S116)"VRename this field "flag_online" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚÑóúÿÿÿÿJ$ba9198cb-8e57-4c79-a4b7-90dab3b8a236
+–	java:S116+"VRename this field "w_programas" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç£å‹üÿÿÿÿJ$a2a7d195-179e-4135-929b-262f04bba814
+•	java:S116-"ZRename this field "lista_programas" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­©ºJ$599c75fe-a5d3-49c5-afb6-c74a044ce2bc
+˜	java:S1160"XRename this field "codigo_modulo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸«øûÿÿÿÿJ$8bdbfbc4-ffe6-42ff-9740-9a50ce4b29cd
+–	java:S1161"[Rename this field "descricao_modulo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ËûÖJ$b58a766b-9352-4b1a-8228-2556d8a82ab8
+š
+java:S1450#"YRemove the "firebaseDB" field and declare it as a local variable in the relevant methods.(Ùà”ØùÿÿÿÿJ$0148914f-568a-43da-b614-9f9d79d2cd57
+w
+java:S18743"6Remove this use of "ProgressDialog"; it is deprecated.(¡æÓÂüÿÿÿÿJ$e76b6df9-7b7a-4ae8-9a73-4253b4fe971a
+w
+java:S2696C"6Make the enclosing method "static" or remove this set.(áÇÓ»ÿÿÿÿÿJ$f5366231-afae-4606-b875-5cca7ba13702
+q
+java:S2696D"6Make the enclosing method "static" or remove this set.(Ò¯›J$bcb0fdbd-5e5a-4bbc-87a3-3c20acf672a9
+s
+java:S1874H"2Remove this use of "setMessage"; it is deprecated.(ü­ºìÿÿÿÿÿJ$c2e2a917-d959-40c9-8a08-5292f8f97693
+‰	java:S100i"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹‘Û—J$8b99a37c-417c-4fc4-85f4-e1f147512046
+	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ç¯ùÿÿÿÿJ$c49febb3-fd66-4901-8ff6-b2f989a7c529
+l	java:S106®"+Replace this use of System.out by a logger.(ò  …øÿÿÿÿJ$78316172-e927-4d91-aa31-fb94588abac1
+X
+java:S1874¾"5Remove this use of "onBackPressed"; it is deprecated.(‘Ñàÿÿÿÿÿ8¦ñó¦¯2
+i
+java:S1125Ç"'Remove the unnecessary boolean literal.(Ú§»×ıÿÿÿÿJ$e804bba1-55f8-4f7e-9cc8-46dbaf011bbf

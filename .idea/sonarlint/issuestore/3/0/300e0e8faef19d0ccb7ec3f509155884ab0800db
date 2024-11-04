@@ -1,0 +1,77 @@
+
+j
+java:S1604‡"(Make this anonymous inner class a lambda(—“«³ùÿÿÿÿJ$4294da75-5c3c-4ec7-9db2-9c8aaa5c0c2c
+j
+java:S1604‘"(Make this anonymous inner class a lambda(´†¶íøÿÿÿÿJ$6ee6970d-d393-4ee8-9874-b7111971435d
+j
+java:S1604›"(Make this anonymous inner class a lambda(ı÷ä¢úÿÿÿÿJ$eb38e776-04d2-4e5b-baa3-26895fdf549f
+e
+java:S1604¥"(Make this anonymous inner class a lambda(†ÇÄáJ$31cd86ea-a6c2-4c37-99a9-4e0015e14706
+j
+java:S1604Ç"(Make this anonymous inner class a lambda(»•‰ôøÿÿÿÿJ$04efeca7-868f-4bca-868e-790c65e05930
+e
+java:S1604Õ"(Make this anonymous inner class a lambda(í‘ÜóJ$7209b8cc-4f53-412a-954c-27342c389004
+e
+java:S1604á"(Make this anonymous inner class a lambda(šÈ®àJ$a7a621c5-a3df-4c0a-9c4b-6e506e04d1a3
+‘	java:S117K"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¼îÏÿÿÿÿÿJ$0029852d-eb6b-4701-ac42-59cd19c8e3d7
+Œ	java:S117L"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ†£ìJ$a3434e3d-cc18-4a70-b40b-029a76549a22
+‘	java:S117i"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹õëÿÿÿÿÿJ$884adb61-a18c-48ea-b6a7-8f33e3b57094
+’	java:S117É"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›´›µûÿÿÿÿJ$fdbe1fe2-1a1c-4ab8-b22e-add8ec38827a
+’	java:S117É"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›´›µûÿÿÿÿJ$e424ee4d-cea7-457b-9f8c-f19c74a76790
+’	java:S117É"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›´›µûÿÿÿÿJ$c90598f4-2cd4-4d55-92f7-0b47be32df77
+’	java:S117Ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öœ€ùÿÿÿÿJ$a4c92bf8-cd54-49ab-8a4b-8c4180e96627
+’	java:S117Ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öœ€ùÿÿÿÿJ$75fb3324-40b6-4923-b92f-cc6570c581e5
+Œ	java:S117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê•*J$bed323d9-ce8b-4aa9-a5a7-098faeaac861
+Œ	java:S117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê•*J$6a5d4f4c-71ff-4188-81f8-4507d613fe5a
+Œ	java:S117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê•*J$cd38c4da-5a64-4b1c-a5d6-f50f1dbc99ca
+Œ	java:S117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê•*J$05db949a-ae82-4f7f-9223-c9cd0d2a8b9c
+	java:S117ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Ï¬±J$c5fa1a8c-b517-43af-84a7-97f2ec3f6834
+	java:S117ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Ï¬±J$613ba478-89b4-453f-ae96-fe292a45394d
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ê‹¨J$49bdbe55-c913-4e53-a8da-8960888a80fc
+e
+java:S5411ª"(Use a primitive boolean expression here.(§¥Ë¹J$2b852550-983b-4682-824b-e7015bf4b5c7
+j
+java:S5411€"(Use a primitive boolean expression here.(Ú§»×ıÿÿÿÿJ$4a1bb2b3-fdac-4154-a9c3-82982a0c4569
+‹
+java:S1192"ODefine a constant instead of duplicating this literal "fragment_alert" 3 times.(¨Á´J$4499156a-9b66-40a5-be61-6c07b4dfc933
+ƒ
+java:S1192¼"FDefine a constant instead of duplicating this literal ". . ." 3 times.(À®›ÇJ$9fcb1889-68bd-45ab-91ca-3188803f62ae
+–	java:S116"VRename this field "flag_online" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚÑóúÿÿÿÿJ$803541c1-e6f0-4d8b-bc93-3c11605596ff
+	java:S116!"]Rename this field "descricao_programa" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜßÆıÿÿÿÿJ$ab3ff586-db29-406d-b56f-d2491f59b103
+—	java:S116#"WRename this field "codigo_aluno" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙáñşÿÿÿÿJ$681e2acb-039f-461d-b389-fb234f6efc9e
+•	java:S116$"URename this field "nome_aluno" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ŠıÏùÿÿÿÿJ$3bad61b4-0f89-403b-bcf5-813b7fdc5e93
+™	java:S116%"^Rename this field "nome_fantasia_aluno" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’‚ˆÄJ$7df14b9e-6dee-4cde-937d-55dd35ce09a0
+	java:S116&"]Rename this field "codigo_alternativo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ú‰ÈùÿÿÿÿJ$7e82ee38-9aa2-4626-9bbe-44b25e868f74
+œ	java:S116'"\Rename this field "data_exame_medico" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú¼õ÷üÿÿÿÿJ$742598c3-b270-415c-863f-58b288a77ea5
+š	java:S116)"ZRename this field "codigo_aeronave" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ÀªúÿÿÿÿJ$79c731f5-076c-49f0-b8e9-7b377eb846d7
+›	java:S116*"[Rename this field "prefixo_aeronave" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıû„€ûÿÿÿÿJ$1754c022-ead3-4be4-a84a-a103f2389eac
+“	java:S116+"XRename this field "nome_aeronave" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÖó“J$2e7e1b29-f9a9-421a-8101-3fa23322170a
+“	java:S116,"XRename this field "tipo_aeronave" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìñØJ$96a9db98-189c-46fc-aae5-8c392dbf495c
+•	java:S116."ZRename this field "codigo_tipo_voo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ‹Î„J$0724b7f4-bf87-494d-bdc3-1fb428538d3f
+˜	java:S116/"XRename this field "nome_tipo_voo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûäİ–ıÿÿÿÿJ$f23624d5-096d-4c2d-a057-34846ae9a5bb
+—	java:S1161"WRename this field "w_nome_aluno" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú´ë“ùÿÿÿÿJ$8782d89e-6c75-4456-a8d2-0438f95cf6ec
+–	java:S1162"[Rename this field "w_nome_instrutor" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤±¡ëJ$33f948d2-02c9-4719-9850-fd256f319b61
+•	java:S1163"ZRename this field "w_nome_aeronave" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÚÜJ$9ead9803-a4e0-47ec-914c-499439bef874
+•	java:S1164"ZRename this field "w_nome_tipo_voo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËâàÏJ$3f71468a-5e54-4e30-ba93-3095473b0bb8
+‘	java:S1166"VRename this field "w_tempo_voo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àˆ¹»J$ad39cb32-1176-49a3-9e99-8d1e41ce5548
+˜	java:S1168"XRename this field "w_botao_aluno" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î³ÖÙşÿÿÿÿJ$241e5a50-d883-4b29-98a9-34447d58d261
+–	java:S1169"[Rename this field "w_botao_aeronave" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ÚŸŒJ$b5699971-5a1b-4c0e-9f57-e09223e7594c
+›	java:S116:"[Rename this field "w_botao_tipo_voo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ëÖ„ùÿÿÿÿJ$b9dcfe1a-2103-43ca-954f-3872ada676e7
+”	java:S116<"YRename this field "w_btn_seguinte" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô”ëºJ$c6f32520-a7dd-41eb-8837-f3e3a8df5410
+–	java:S116á"ZRename this field "retornaTipo_voo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÈ®àJ$4d1126eb-fb10-4cbc-94c9-dddfb2aad06e
+q
+java:S1144“"/Remove this unused private "alertSmall" method.(‰ßüŞÿÿÿÿÿJ$bfb78c29-0b97-40eb-96d6-eef0d049e7ed
+
+java:S1858]"O"codigo_aluno" is already a string, there's no need to call "toString()" on it.(¯õÓêıÿÿÿÿJ$7049481a-013d-4cd6-91f4-0dcab7ede916
+
+java:S1858_"R"codigo_aeronave" is already a string, there's no need to call "toString()" on it.(ôºäåJ$6e8c5a5b-f8f2-4114-b7fe-c5fd5d4949b6
+
+java:S1858a"R"codigo_tipo_voo" is already a string, there's no need to call "toString()" on it.(æ¾áŞJ$1165522b-247e-48b2-a20d-69706feda1d0
+d
+java:S1125ª"'Remove the unnecessary boolean literal.(§¥Ë¹J$499d39ce-9a2b-40ff-9d5f-ed5e186aab4d
+~
+java:S1126¼"AReplace this if-then-else statement by a single return statement.(À®›ÇJ$48d7ba9f-9a14-49d7-bff8-7640473995b9
+X
+java:S1874÷"5Remove this use of "onBackPressed"; it is deprecated.(‘Ñàÿÿÿÿÿ8´Íí§¯2
+i
+java:S1125€"'Remove the unnecessary boolean literal.(Ú§»×ıÿÿÿÿJ$0daf7160-b741-44fc-9c3a-f075b6953b50

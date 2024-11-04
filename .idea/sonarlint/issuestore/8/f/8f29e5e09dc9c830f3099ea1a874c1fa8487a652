@@ -1,0 +1,33 @@
+
+“	java:S117I"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ†£ì8¡î¦¯2J$83cff02f-d23d-4748-9d89-8a5f708b3ef2
+˜	java:S117W"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹õëÿÿÿÿÿ8§î¦¯2J$f986e847-9e3a-4f9b-9e63-4fa6f5ac86b5
+“	java:S117n"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş‹Å8§î¦¯2J$c887bfe0-6ae2-4580-832f-2e7b5a88f5c2
+˜	java:S117s"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õİšşÿÿÿÿ8§î¦¯2J$701cf262-06cd-450f-af3d-88a71e092c82
+”	java:S117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş‹Å8§î¦¯2J$9987b796-5ecb-4ce2-919a-a131618f1063
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿ«¾8¨î¦¯2J$2cb8c13c-3c8f-4cc8-8d69-e603abeffd83
+q
+java:S5411Ï"(Use a primitive boolean expression here.(Ú§»×ıÿÿÿÿ8¨î¦¯2J$38830ddc-0a95-4afa-872c-c61a78c309d3
+œ
+java:S2293S"YReplace the type specification in this constructor call with the diamond operator ("<>").(ºûÕ½8¨î¦¯2J$fba2b698-9269-48a2-bd94-35fdad5408eb
+•
+java:S1192H"MDefine a constant instead of duplicating this literal "usuario-temp" 3 times.(İ¼¢üÿÿÿÿ8¨î¦¯2J$4d21d23b-6ab6-4856-84a4-b3c97e898d74
+	java:S116*"VRename this field "flag_online" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚÑóúÿÿÿÿ8¨î¦¯2J$bce671fa-c8b5-414c-a8a4-a3a145e0739c
+˜	java:S116,"VRename this field "w_descricao" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É™çı8¨î¦¯2J$d3d529bc-c764-41fa-b04e-9c0ca8547b67
+–	java:S116."TRename this field "w_modulos" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åò§8¨î¦¯2J$4826109d-3c1f-473f-b2ea-70dd9629e7ee
+Ÿ	java:S1160"XRename this field "lista_modulos" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯¤²Ïşÿÿÿÿ8©î¦¯2J$a672c513-2873-46d5-a082-ff8a5f7979f1
+¡
+java:S1450$"YRemove the "firebaseDB" field and declare it as a local variable in the relevant methods.(Ùà”Øùÿÿÿÿ8©î¦¯2J$a6cf1c82-9edb-410c-b57f-2c01cf1a7eb2
+~
+java:S18743"6Remove this use of "ProgressDialog"; it is deprecated.(¡æÓÂüÿÿÿÿ8Ñî¦¯2J$a6650c17-ab89-487e-a258-2fcb3aaee167
+~
+java:S2696="6Make the enclosing method "static" or remove this set.(áÇÓ»ÿÿÿÿÿ8Òî¦¯2J$a5923ee1-0991-41e6-a69c-8b30207b9cca
+y
+java:S2696>"6Make the enclosing method "static" or remove this set.(»„˜è8Òî¦¯2J$8a0c0ae0-b138-4681-b2eb-e2e916d2aef9
+u
+java:S1874B"2Remove this use of "setMessage"; it is deprecated.(Ö ¦®8Òî¦¯2J$a66d0ab6-ebd0-45ec-805f-31d19277ef87
+•	java:S100c"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áŞşÿÿÿÿ8æî¦¯2J$22e94fdb-b6ac-4f2a-bcaf-7322d9913d10
+–	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ñÛ±ùÿÿÿÿ8üî¦¯2J$329d6991-9250-4bea-858d-099a1ed9b1bb
+X
+java:S1874Æ"5Remove this use of "onBackPressed"; it is deprecated.(‘Ñàÿÿÿÿÿ8ß­ô¦¯2
+p
+java:S1125Ï"'Remove the unnecessary boolean literal.(Ú§»×ıÿÿÿÿ8Õî¦¯2J$f302bb87-4294-4622-b4e1-01f61273875b

@@ -1,0 +1,126 @@
+
+F
+java:S1604Ç"(Make this anonymous inner class a lambda(„ú¶8Ø™…§¯2
+K
+java:S1604Ñ"(Make this anonymous inner class a lambda(Êüßâüÿÿÿÿ8Ù™…§¯2
+K
+java:S1604Ú"(Make this anonymous inner class a lambda(íí‰‰ÿÿÿÿÿ8Ù™…§¯2
+Œ	java:S117m"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ†£ìJ$9ceafce2-e6fa-40c2-afb9-bd597d70d5dc
+‘	java:S117z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹õëÿÿÿÿÿJ$80d86986-e82d-49e4-8cb9-3da8e54b1a85
+s	java:S117¿"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–²üÿÿÿÿ8Ú™…§¯2
+s	java:S117Ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıÀúÙÿÿÿÿÿ8Ú™…§¯2
+n	java:S117è"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ¦ ¨8Ú™…§¯2
+’	java:S117ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÜ¤×úÿÿÿÿJ$075b72c1-1bea-40ca-a5a3-a8dc4cfc94f3
+n	java:S117ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï¥¹8Û™…§¯2
+n	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–˜ÍÑ8Û™…§¯2
+s	java:S117¸"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øçä­üÿÿÿÿ8Û™…§¯2
+	java:S117º"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àî»ÊJ$89c20636-4960-41d1-974c-4f51948312f6
+’	java:S117»"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀâáäûÿÿÿÿJ$a6a59aa9-d434-4f00-ab39-bd89d7bfa55a
+’	java:S117¼"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÖÁ®üÿÿÿÿJ$eb77ea55-46a5-4bb1-8da4-7773f3131573
+’	java:S117½"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œîñ‡ıÿÿÿÿJ$f718a5aa-3511-4eb9-ac44-5f3a058fc773
+Œ	java:S117¾"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±±³.J$c6871296-5a91-4311-abc8-e6270b9ab358
+’	java:S117¿"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ‹ÊÚûÿÿÿÿJ$bda92146-38b2-4524-bbe2-2988f375a6bf
+s	java:S117À"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú¤Úãøÿÿÿÿ8Ü™…§¯2
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ê‹¨J$63b2b71f-33b6-476b-95c3-b112683a3e84
+j
+java:S5411³"(Use a primitive boolean expression here.(Ú§»×ıÿÿÿÿJ$33ae49c4-209b-4cbd-98e3-1dac6d0cc05b
+F
+java:S5411õ"(Use a primitive boolean expression here.(Ó³Ş8İ™…§¯2
+K
+java:S5411"(Use a primitive boolean expression here.(Ú§»×ıÿÿÿÿ8İ™…§¯2
+K
+java:S5411’"(Use a primitive boolean expression here.(¨¢ôŞúÿÿÿÿ8è™…§¯2
+–
+java:S2293–"YReplace the type specification in this constructor call with the diamond operator ("<>").(â´¿˜J$4518c819-eb3e-4cff-85e1-b7448445858b
+›
+java:S2293—"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÇÈºÑşÿÿÿÿJ$2741ccde-615a-45da-8e71-ec8abb22a3b1
+r
+java:S2095¬"OUse try-with-resources or close this "BancoPrecoEstoque" in a "finally" clause.(äßÿ½şÿÿÿÿ8è™…§¯2
+r
+java:S2095Ü"OUse try-with-resources or close this "BancoPrecoEstoque" in a "finally" clause.(äßÿ½şÿÿÿÿ8é™…§¯2
+–	java:S1165"VRename this field "flag_online" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚÑóúÿÿÿÿJ$92552252-eee9-4c27-b011-980c711d90d8
+“	java:S116:"SRename this field "w_layout" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í®á¤şÿÿÿÿJ$4d574603-ea8a-41f3-91e9-8b903d6ebe93
+”	java:S116<"YRename this field "w_botao_leitor" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÅÒÌJ$edf683f0-acb2-4c69-b174-ac3e3723ca3c
+•	java:S116="[Rename this field "w_botao_cancelar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ã™J$78dedef0-d381-422a-9d8c-aa42a250fe7c
+—	java:S116>"WRename this field "w_botao_foco" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³”·„şÿÿÿÿJ$73a22049-f51f-4ab2-87a3-09eff72962f6
+”	java:S116@"YRename this field "w_icone_leitor" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÑÌÓJ$8a5acd05-66e8-475a-b041-b5a9efde34f8
+›	java:S116A"[Rename this field "w_icone_cancelar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤òÛÔûÿÿÿÿJ$22f4686d-1486-4f60-9a24-c482e68c80b2
+’	java:S116B"WRename this field "w_icone_foco" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øÉÆáJ$812a8376-42d3-4557-afd9-2e3551f91142
+—	java:S116E"WRename this field "w_item_vazio" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º¢×ÚşÿÿÿÿJ$59fbc8a1-cdba-4ca6-ac0b-18cf2c26d21e
+Œ	java:S116G"QRename this field "w_item" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı©şÅJ$b5d14bb5-b48d-4722-8ddd-bec85d3066f0
+	java:S116I"URename this field "lista_item" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÙCJ$7ad7910d-fef6-4e34-aa94-9ebe706b873f
+˜	java:S116J"]Rename this field "lista_item_cod_bar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áœÁĞJ$859b772a-dee3-4ca3-9d4a-bc2cf6587f33
+	java:S116M"]Rename this field "descricao_programa" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜßÆıÿÿÿÿJ$569ce2c8-e7ea-42b6-b6ee-4571891b9595
+	java:S116Q"SRename this field "w_codigo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±´¨œJ$d49ceed4-83c2-4142-859b-9646b690e7d4
+œ
+java:S3008/"[Rename this field "referenceDB_item" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì¶ª…üÿÿÿÿJ$7039757d-3daf-46b4-ba76-29f01fa9945a
+¤
+java:S30080"cRename this field "referenceDB_item_cod_bar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Äş—ŞùÿÿÿÿJ$6218cbcc-5666-43ca-bcbd-0c4ac87250c4
+m
+java:S1659O",Declare "dialogPesquisa" on a separate line.(›‹­ûÿÿÿÿJ$cc52b0da-33e5-45e3-a2c9-9466a6e3fc77
+š
+java:S1450."YRemove the "firebaseDB" field and declare it as a local variable in the relevant methods.(Ùà”ØùÿÿÿÿJ$1a91a15d-8a00-4d6a-a13f-c3e42ead0d10
+R
+java:S1144â"/Remove this unused private "alertSmall" method.(‰ßüŞÿÿÿÿÿ8ñ™…§¯2
+w
+java:S1874O"6Remove this use of "ProgressDialog"; it is deprecated.(›‹­ûÿÿÿÿJ$e8b924e9-547e-453c-bb6d-d1ecf4d70ceb
+w
+java:S1874O"6Remove this use of "ProgressDialog"; it is deprecated.(›‹­ûÿÿÿÿJ$f772fef4-d7cc-41f0-85f5-33376dcd0e66
+p
+java:S1874e"/Remove this use of "Handler"; it is deprecated.(´Æß™şÿÿÿÿJ$a9612de7-1d2a-4c11-84c4-19b6b20cf9c9
+w
+java:S2696g"6Make the enclosing method "static" or remove this set.(áÇÓ»ÿÿÿÿÿJ$3ca1d497-753a-4e18-9dfc-ab89671d5311
+w
+java:S2696h"6Make the enclosing method "static" or remove this set.(àÎ„ËşÿÿÿÿJ$2846f2a7-aff5-4711-9ee4-da26976f8137
+q
+java:S2696i"6Make the enclosing method "static" or remove this set.(å³ŒFJ$50df0f3d-012f-4990-868b-4b32016adc61
+f	java:S106}"+Replace this use of System.out by a logger.(íÄ‚¤J$fb1f4210-a5f8-457e-9044-d2447d7314e4
+g	java:S106€"+Replace this use of System.out by a logger.(ÕĞ‘ÿJ$89e18373-52ad-4299-be9d-df98e196e0ea
+i
+java:S1125³"'Remove the unnecessary boolean literal.(Ú§»×ıÿÿÿÿJ$1d3d4b7d-9457-43b1-bfb2-9d4cc5e2f7f3
+|
+java:S2142ä"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8•š…§¯2
+E
+java:S1125õ"'Remove the unnecessary boolean literal.(Ó³Ş8—š…§¯2
+N
+java:S1874ö"0Remove this use of "getColor"; it is deprecated.(šŸ²Ú8—š…§¯2
+N
+java:S1874ù"0Remove this use of "getColor"; it is deprecated.(İ¤ëÑ8—š…§¯2
+S
+java:S1874ü"0Remove this use of "getColor"; it is deprecated.(”àñ‚şÿÿÿÿ8˜š…§¯2
+N
+java:S1874€"0Remove this use of "getColor"; it is deprecated.(Ëã¥8˜š…§¯2
+N
+java:S1874ƒ"0Remove this use of "getColor"; it is deprecated.(ÄÏ¯Ã8™š…§¯2
+N
+java:S1874†"0Remove this use of "getColor"; it is deprecated.(œà8™š…§¯2
+J
+java:S1125"'Remove the unnecessary boolean literal.(Ú§»×ıÿÿÿÿ8šš…§¯2
+J
+java:S1125’"'Remove the unnecessary boolean literal.(¨¢ôŞúÿÿÿÿ8šš…§¯2
+p	java:S100µ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤¹Àúşÿÿÿÿ8š…§¯2
+o
+java:S1874¶"2Remove this use of "setMessage"; it is deprecated.(èÉÜJ$660cdf62-8e32-487a-93d4-b7fed915726f
+U
+java:S1874·"8Remove this use of "setProgressStyle"; it is deprecated.(‚’ËG8š…§¯2
+p	java:S100Ö"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤»œ’øÿÿÿÿ8§š…§¯2
+[
+java:S1854ğ"=Remove this useless assignment to local variable "resultado".(âæî´8¨š…§¯2
+o
+java:S1874×"2Remove this use of "setMessage"; it is deprecated.(èÉÜJ$91e7c29a-0bbd-4091-a4d6-193b5e19afca
+U
+java:S1874Ø"8Remove this use of "setProgressStyle"; it is deprecated.(‚’ËG8©š…§¯2
+h
+java:S1117Ü"ERename "bancoPrecoEstoque" which hides the field declared at line 51.(äßÿ½şÿÿÿÿ8©š…§¯2
+H	java:S106ä"+Replace this use of System.out by a logger.(¤«‰Ø8«š…§¯2
+L
+java:S1481ğ".Remove this unused "resultado" local variable.(âæî´8¬š…§¯2
+H	java:S106‚"+Replace this use of System.out by a logger.(ÂúèŠ8®š…§¯2
+p	java:S100‡"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ĞÍ½ıÿÿÿÿ8®š…§¯2
+p	java:S100ª"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß‹íüÿÿÿÿ8³š…§¯2
+h
+java:S1117¬"ERename "bancoPrecoEstoque" which hides the field declared at line 51.(äßÿ½şÿÿÿÿ8´š…§¯2
+M	java:S106´"+Replace this use of System.out by a logger.(ûµÃªøÿÿÿÿ8µš…§¯2
+G	java:S106İ"+Replace this use of System.out by a logger.(°·´k8ºš…§¯2
+q
+java:S10683"5Remove this unused "bancoPrecoEstoque" private field.(’´úJ$9bb3ffbc-65cf-4177-b39d-07ed25343c2b

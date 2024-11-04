@@ -1,0 +1,32 @@
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+
+        maven { url "https://maven.google.com" } // Repositorio do Google
+
+        maven { url "https://jitpack.io" } //Repositorio de bibliotecas personalizadas
+
+        maven { url 'https://mapbox.bintray.com/mapbox' } // Repositorio do mapbox
+
+        maven {
+            url = uri("https://api.mapbox.com/downloads/v2/releases/maven")
+            // Não mudar o username - Deve sempre ser 'mapbox' (não o nome de usuario no site).
+            credentials.username = "mapbox"
+            // Colocar o token no gradle.properties que será usado como password
+            credentials.password = providers.gradleProperty("MAPBOX_DOWNLOADS_TOKEN").get()
+            authentication { basic(BasicAuthentication) }
+        }
+    }
+}
+
+rootProject.name='JRmadeiras'
+include ':app'
